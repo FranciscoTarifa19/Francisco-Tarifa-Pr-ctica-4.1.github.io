@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 ## 1 Datos
 Titulo : MI Proyecto(Encuentra el camino)
 
-Web: [(url github.io)](https://github.com/FranciscoTarifa19/Francisco-Tarifa-Pr-ctica-4.1.github.io)
+Web: https://franciscotarifa19.github.io/Francisco-Tarifa-Pr-ctica-4.1.github.io/
 
 Autor: Francisco Tarifa Lupiáñez
 
@@ -20,7 +20,7 @@ Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y
 
 Probado en:MS Edge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 38KB
 
 Fecha : 23/05/2025
 
@@ -56,7 +56,7 @@ Etapa 3: Problemas identificados
 Que al comienzo del juego el botón go está muy a la izquierda debido a que el primer nivel es por control de ratón y empiza donde esta situado el ratón en la primera escena, de ahí su posición.
 
 ## 4. Conclusiones
-Es un proyecto básico y como mejora diría el empleo de colisiones en cada pared paraque el juego sea mas intuitivo y limite mas al usuario en cuanto a la movilidad.
+Es un proyecto básico y como mejora diría el empleo de colisiones en cada pared para que el juego sea mas intuitivo y limite más al usuario en cuanto a la movilidad.
 
 ## 5 Referencias
 **Artículos y blogs **
