@@ -1,16 +1,16 @@
-# (Nombre del proyecto)
+# ENCUENTRA EL CAMIN0
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : MI Proyecto(Encuentra el camino)
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: Francisco Tarifa Lupiáñez
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto trata de seguir el camino correcto para llegar a un punto. Elusuario deberá emplean diferentes controles para ello.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
+Estilo/género: Juego
 
 Logotipo : (insertar imagen y breve justificación, si tiene)
 
@@ -18,11 +18,11 @@ Logotipo : (insertar imagen y breve justificación, si tiene)
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en:MS Edge
 
 Tamaño proyecto: 14MB
 
-Fecha : 14/05/2025
+Fecha : 23/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
@@ -33,18 +33,18 @@ Tiktok:
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+El proyecto consta de cuatro escenas, un menu, un panel de instrucciones, un nivel por control de teclas y otro por control de ratón.
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+En el menú pulsamos botón de instrucciones, el botón back te regresa al menú,y el botón go te llevaría al primer nivel por control de ratón, con el botón next pasaríamos al segundo nivel por control de teclas A,W,S,D y con el botón back regresaríamos al botón
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque te hace cumplir mismos objetivos con diferentes procedimientos (controles).
 
-Orientado a .. (Público)
+Orientado a niños/as.
 
 Etapa 2: Desarrollo / actividades realizadas
 
