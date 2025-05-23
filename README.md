@@ -16,7 +16,7 @@ Logotipo : (insertar imagen y breve justificación, si tiene)
 
 (insertar imágenes a resolucion de 100px alto)
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 600X400
 
 Probado en:MS Edge
 
