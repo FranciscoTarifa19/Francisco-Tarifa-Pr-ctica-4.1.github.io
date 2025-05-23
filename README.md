@@ -53,10 +53,10 @@ Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
 Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+Que al comienzo del juego el botón go está muy a la izquierda debido a que el primer nivel es por control de ratón y empiza donde esta situado el ratón en la primera escena, de ahí su posición.
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Es un proyecto básico y como mejora diría el empleo de colisiones en cada pared paraque el juego sea mas intuitivo y limite mas al usuario en cuanto a la movilidad.
 
 ## 5 Referencias
 **Artículos y blogs **
